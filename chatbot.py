@@ -148,9 +148,8 @@ if st.button("Submit") and user_input.strip():
             "timestamp": datetime.now().strftime("%H:%M")
         })
 
-    # Force rerun to clear input
+ 
 
             
-            # Clear input box after submission by forcing a rerun
+        
 
-# Add some health tips in the sidebar
